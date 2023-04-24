@@ -33,6 +33,11 @@ Once you have the API key and cx, you can run the script from the command line l
 python slide_generator.py slides.md your_api_key your_cx
 ```
 
+# Sample output
+
+See `./sample/` folder for a sample output when the script is run with the `slides.md` input. 
+
+
 
 
 
